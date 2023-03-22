@@ -1,8 +1,5 @@
 {
   "projects": {
-    "default": "front-4470a",
-    "Front": "front-4470a"
-  },
-  "targets": {},
-  "etags": {}
+    "default": "front-end-e7298"
+  }
 }

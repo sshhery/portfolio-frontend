@@ -10,7 +10,8 @@ import { NuevoUsuario } from '../model/nuevo-usuario';
   providedIn: 'root'
 })
 export class AuthService {
-  URL = environment.URL + 'auth/';
+  
+  URL =  'https://protestant-eugine-sshhery.koyeb.app/auth/';
 
   constructor(private httpClient: HttpClient) { }
 

@@ -11,7 +11,7 @@ export class EducacionService {
 
   
 
-  URL = environment.URL + 'educacion/';
+  URL =  'https://protestant-eugine-sshhery.koyeb.app/educacion/';
 
 
   constructor(private httpClient : HttpClient) { }

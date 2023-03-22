@@ -9,9 +9,9 @@ import { Experiencia } from '../model/experiencia';
 })
 export class SExperienciaService {
 
-  expURL = 'https://protestant-eugine-sshhery.koyeb.app/';
+ 
 
-  URL = environment.URL + 'explab/';
+  URL =  'https://protestant-eugine-sshhery.koyeb.app/explab/';
 
 
   constructor(private httpClient: HttpClient) { }
